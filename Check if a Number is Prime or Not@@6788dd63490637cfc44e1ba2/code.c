@@ -9,7 +9,7 @@ int main(){
         }
         
     }
-    if(fac>2){
+    if(fac>=2){
         printf("Prime");
     }
     else{
