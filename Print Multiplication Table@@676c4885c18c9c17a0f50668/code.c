@@ -3,6 +3,6 @@ int main(){
     int a;
     scanf("%d",&a);
     for(int i=1;i<=10;i=i+1){
-        print("%d x %d = %d",n,i,i*n);
+        printf("%d x %d = %d",n,i,i*n);
     }
 }
